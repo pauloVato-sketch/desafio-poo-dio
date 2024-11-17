@@ -62,6 +62,7 @@ public class Dev {
         this.conteudosConcluidos = conteudosConcluidos;
     }
 
+    // Metodos para comparação atualizados para model
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
